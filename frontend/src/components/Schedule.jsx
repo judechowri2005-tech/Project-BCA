@@ -9,27 +9,24 @@ const Schedule = () => {
   
   const days = [
     {
-      date: 'JANUARY 17',
+      date: 'FEBRUARY 15',
       events: [
-        { time: '9:00 am', title: 'Opening' },
-        { time: '2:00 pm', title: 'Workshop' },
-        { time: '7:00 pm', title: 'Evening Service' },
+        { time: '10:00 am', title: 'Sunday Morning Serice' },
+        { time: '12:00 pm', title: 'Bible Study' },
+        { time: '6:00 pm', title: 'Evening Service' },
       ],
     },
     {
-      date: 'JANUARY 18',
+      date: 'FEBRURARY 18',
       events: [
-        { time: '7:00 am', title: 'Breakfast' },
-        { time: '9:00 am', title: 'Bible Study' },
-        { time: '12:30 pm', title: 'Fellowship' },
+        { time: '7:30 pm', title: 'Prayer Meeting' },
       ],
     },
     {
-      date: 'JANUARY 19',
+      date: 'FEBRUARY 21',
       events: [
-        { time: '7:00 am', title: 'Prayer Meeting' },
-        { time: '9:00 am', title: 'Guest Speaker' },
-        { time: '11:30 am', title: 'Closing Remarks' },
+        { time: '10:00 am', title: 'Day of Prayer' },
+        { time: '5:30 PM', title: 'Guest Speaker' },
       ],
     },
   ];
