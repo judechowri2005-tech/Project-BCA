@@ -134,7 +134,7 @@ const Sermons = () => {
 
             <div className="text-center mt-12 relative z-20">
                  <h3 className="text-[#F5E6D3] text-3xl md:text-4xl font-sans font-bold uppercase tracking-wide drop-shadow-md">
-                     GROW IN FAITH, ENGAGE WITH OUR COMMUNITY!
+                     GROW IN FAITH AND IN THE KNOWLEDGE OF GOD'S WORD!
                  </h3>
             </div>
         </div>
