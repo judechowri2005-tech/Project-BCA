@@ -14,9 +14,9 @@ const Ministries = () => {
   const slider = useRef();
   
   const people = [
-    { name: 'EMILY JOHNSON', role: 'Youth Ministry Leader, Resurrection Baptist Church', img: img1 },
-    { name: 'MICHAEL SMITH', role: 'Outreach Coordinator, Resurrection Baptist Church', img: img2 },
-    { name: 'SARAH BROWN', role: 'Education Program Director, Resurrection Baptist Church', img: img3 },
+    { name: 'JUDE CHOWRI', role: 'Youth Ministry Leader, Resurrection Baptist Church', img: img1 },
+    { name: 'JONAH CHOWRI', role: 'Outreach Coordinator, Resurrection Baptist Church', img: img2 },
+    { name: 'JONAH CHOWRI', role: 'Sunday School Director, Resurrection Baptist Church', img: img3 },
   ];
 
   useGSAP(() => {
@@ -86,7 +86,7 @@ const Ministries = () => {
           {/* Intro Card */}
            <div className="flex flex-col justify-center min-w-[300px] md:min-w-[450px]">
               <p className="text-[#f0e6d2] text-3xl font-serif leading-relaxed italic border-l-4 border-[#c5a059] pl-6">
-                  "Discover the vibrant community and the dedicated individuals serving at Resurrection Baptist Church."
+                  "Discover the men and women of God serving at Resurrection Baptist Church."
               </p>
               <div className="text-left mt-12 pl-6">
                 <button 
