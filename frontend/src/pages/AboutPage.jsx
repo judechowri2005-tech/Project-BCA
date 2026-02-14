@@ -14,10 +14,10 @@ const AboutPage = () => {
     const timelineRef = useRef();
 
     const historyEvents = [
-        { year: "1985", title: "The Foundation", desc: "Started in a small living room with just 12 families dedicated to prayer." },
-        { year: "1998", title: "Growing Community", desc: "Moved to our first permanent building as membership exceeded 200 congregants." },
-        { year: "2010", title: "New Horizons", desc: "launched our global outreach program, partnering with missions in 5 continents." },
-        { year: "2024", title: "A Legacy Continues", desc: "Celebrating nearly 40 years of grace, we continue to build for the next generation." },
+        { year: "2023", title: "The Foundation", desc: "Started in a small living room with just 3 families dedicated to prayer." },
+        { year: "2024", title: "Growing Community", desc: "Met in the home of believers as the early Church did in days of old" },
+        { year: "2025", title: "New Believers Added", desc: "Continue to grow with visitors each week joining our fellowship" },
+        { year: "2026", title: "A New Year Dawns", desc: "Continuing to grow in the Word of God" },
     ];
 
     useGSAP(() => {
@@ -84,7 +84,7 @@ const AboutPage = () => {
                             OUR STORY
                         </h1>
                         <p className="text-xl md:text-2xl font-serif max-w-2xl mx-auto italic opacity-80">
-                            "Built on Faith, Growing in Grace."
+                            "Built by Grace, Through Faith."
                         </p>
                     </div>
                 </div>
@@ -134,7 +134,7 @@ const AboutPage = () => {
                         <div className="absolute inset-0 bg-[#c5a059] mix-blend-multiply opacity-20"></div>
                         <div className="absolute bottom-12 left-12">
                             <h2 className="text-5xl md:text-7xl font-serif text-[#1a1614] leading-none mb-2">
-                                Rev. Michael <br/> Johnson
+                                Pastor Jonah Chowri <br/> Johnson
                             </h2>
                             <p className="text-xl font-serif italic text-[#1a1614]/70">Senior Pastor</p>
                         </div>
@@ -148,13 +148,13 @@ const AboutPage = () => {
                         </p>
                         <div className="prose prose-lg prose-stone text-[#1a1614]/80 font-serif">
                             <p className="mb-6">
-                                Reverend Michael Johnson has served as the Senior Pastor of Resurrection Baptist Church since 2012. With a heart for expository preaching and community outreach, he has led the church through a decade of transformative growth.
+                                Pastor Jonah Chowri has served as Pastor of Resurrection Baptist Church since 2023. With a heart for expository preaching and community outreach, he has led the church through great transformative growth.
                             </p>
                             <p className="mb-6">
-                                Before arriving here, Michael served in mission fields across South America, an experience that deeply shaped his understanding of the global church. He holds a Masters of Divinity from Grace Theological Seminary.
+                                Before arriving here, Jonah served in Heritage Baptist Church, Bengaluru, an experience that deeply shaped his understanding of the church. He holds a Bachelors in Theology from Heritage Baptist Bible College.
                             </p>
                             <p>
-                                He and his wife, Sarah, have been married for 25 years and are proud parents to three children. When not in the pulpit, you can find Michael hiking the local trails or enjoying a good cup of coffee with new friends.
+                                He and his wife, Priya, have been married for 2 years. When not in the pulpit, you can find Pastor in the streets of Bengaluru with friends and family, enjoying fellowship.
                             </p>
                         </div>
                         
