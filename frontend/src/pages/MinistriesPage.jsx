@@ -19,7 +19,7 @@ const MinistriesPage = () => {
             id: 1,
             name: 'Youth Ministry', 
             role: 'Empowering the Next Generation', 
-            desc: "Our Youth Ministry is a vibrant community where young people can grow in their faith, build lasting friendships, and discover their God-given purpose. Through weekly gatherings, retreats, and service projects, we guide teens to become bold disciples of Christ.",
+            desc: "Our Youth Ministry is a vibrant community where young people can grow in their faith, build lasting friendships, and discover their God-given purpose. Through weekly gatherings, we guide teens to become bold disciples of Christ.",
             img: img1,
             color: "#c5a059"
         },
@@ -27,15 +27,15 @@ const MinistriesPage = () => {
             id: 2,
             name: 'Outreach & Missions', 
             role: 'Serving Our Community & World', 
-            desc: "We believe faith is active. Our Outreach team organizes local food drives, homeless shelter support, and global mission trips. We are committed to being the hands and feet of Jesus, spreading hope and tangible love to those in need.",
+            desc: "We believe faith is active. Our Outreach team organizes events where the Gospel is preached and Souls are saved by listening to the truth of the Gospel",
             img: img2,
             color: "#f0e6d2"
         },
         { 
             id: 3,
-            name: 'Education & Discipleship', 
+            name: 'Sunday School & Discipleship', 
             role: 'Deepening Knowledge & Spirit', 
-            desc: "From Sunday School for kids to Theology classes for adults, our Education department ensures everyone has the tools to understand scripture deeply. We foster a culture of lifelong learning and spiritual maturity.",
+            desc: "From Sunday School for kids to Theology classes for adults, our Sunday Shcool ensures everyone has the tools to understand scripture deeply. We foster a culture of lifelong learning and spiritual maturity.",
             img: img3,
             color: "#c5a059"
         },
